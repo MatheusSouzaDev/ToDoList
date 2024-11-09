@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { v4 } from "uuid";
 import "../global.css";
 import AddTasks from "../components/AddTasks.jsx";
-import Tasks from "../components/tasks.jsx";
+import Tasks from "../components/Tasks.jsx";
 import Title from "../components/Title.jsx";
 
 export default function App() {
